@@ -1,6 +1,6 @@
 # projetotony
 
-A new Flutter project.
+Um projeto em Flutter para gerenciar repositórios para a redação do enem.
 
 ## Getting Started
 
