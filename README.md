@@ -5,7 +5,7 @@ Um projeto em Flutter para gerenciar repositórios para a redação do enem.
 # Integrantes:
 - Pedro Henrique Bossi;
 - Tiago Rodovalho Gonçalves;
-- Ana Júlia Vergilio.
+- Ana Julia Vergilio.
 
 ## Getting Started
 
